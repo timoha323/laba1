@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles\\smart_pointer.dir\\SharedLinkedList.cpp.obj",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}

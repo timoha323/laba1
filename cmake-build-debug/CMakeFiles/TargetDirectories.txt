@@ -1,0 +1,3 @@
+C:/Users/makar/CLionProjects/smart_pointer/cmake-build-debug/CMakeFiles/smart_pointer.dir
+C:/Users/makar/CLionProjects/smart_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/makar/CLionProjects/smart_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
