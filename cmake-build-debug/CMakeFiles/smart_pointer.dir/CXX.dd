@@ -1,3 +1,13 @@
 ninja_dyndep_version = 1.0
 build CMakeFiles/smart_pointer.dir/main.cpp.obj: dyndep
 
+build CMakeFiles/smart_pointer.dir/HeapTest.cpp.obj: dyndep
+
+build CMakeFiles/smart_pointer.dir/Tests.cpp.obj: dyndep
+
+build CMakeFiles/smart_pointer.dir/menu.cpp.obj: dyndep
+
+build CMakeFiles/smart_pointer.dir/functionalTests.cpp.obj: dyndep
+
+build CMakeFiles/smart_pointer.dir/uiiii.cpp.obj: dyndep
+

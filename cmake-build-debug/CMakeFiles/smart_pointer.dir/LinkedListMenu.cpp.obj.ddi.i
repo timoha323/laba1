@@ -1,0 +1,5 @@
+# 0 "C:/Users/makar/CLionProjects/smart_pointer/LinkedListMenu.cpp"
+# 1 "C:\\Users\\makar\\CLionProjects\\smart_pointer\\cmake-build-debug//"
+# 0 "<built-in>"
+# 0 "<command-line>"
+# 1 "C:/Users/makar/CLionProjects/smart_pointer/LinkedListMenu.cpp"

@@ -1,0 +1,11 @@
+{
+"rules": [
+{
+"primary-output": "CMakeFiles/smart_pointer.dir/LinkedListMenu.cpp.o",
+"requires": [
+]
+}
+],
+"version": 0,
+"revision": 0
+}
