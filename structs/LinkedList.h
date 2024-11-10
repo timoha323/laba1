@@ -52,8 +52,10 @@ public:
     }
 
     T& get_front() const {
-        if(!head.isNull()){
+        if (!head.isNull()) {
             return head->data;
+        } else {
+            throw std::runtime_error("List is empty. Cannot get front element.");
         }
     }
 
