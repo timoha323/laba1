@@ -7,10 +7,7 @@ add_executable(smart_pointer main.cpp
         uniquePointer.h
         Tests.h
         sharedPointer.h
-        Heap.h
         menu.h
-        HeapTest.h
-        HeapTest.cpp
         Tests.cpp
         menu.cpp
         structs/DynamicArray.h
